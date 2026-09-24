@@ -1,6 +1,6 @@
 # Lab 3: Requirements Analysis & Specification
 
-## What We Have Done So Far
+## 1. What We Have Done So Far
 
 * **Lab 1: Discovered the Problem**
   * Investigated the problem domain.
@@ -20,3 +20,22 @@ Shift focus toward defining **clear, useful, and verifiable requirements**.
 
 ```text
 Problem -> Stakeholders -> Elicitation -> Analysis -> Requirements
+
+## 2. Is this actually a requirement?
+
+For each statement, decide whether it is a:
+
+* **Problem / Observation**
+* **Stakeholder need / Concern**
+* **Candidate requirement**
+* **Solution Idea**
+* **Assumption**
+
+---
+
+* **A.** People are sometimes unsure whether a camera is available — *Problem / Observation*
+* **B.** Technicians need to know what equipment is due back — 
+* **C.** The system shall record the expected return date for each booking. — 
+* **D.** The college should build a mobile app — 
+* **E.** We assume all users will have a college login — 
+* **F.** A lecturer wants reliable availability information before promising equipment —
