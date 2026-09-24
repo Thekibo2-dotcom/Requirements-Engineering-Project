@@ -1,3 +1,22 @@
-##Lab 3 - Requirements Analysis & Specification
+# Lab 3: Requirements Analysis & Specification
 
------ What Have We Done So Far -----
+## What We Have Done So Far
+
+* **Lab 1: Discovered the Problem**
+  * Investigated the problem domain.
+  * Identified facts, assumptions, and unknowns.
+  * Outlined stakeholders, goals, and initial possible requirements.
+* **Lab 2: Elicited Information**
+  * Identified stakeholders, their needs, and concerns.
+  * Developed targeted questions for elicitation.
+
+---
+
+## Today's Objective
+
+Shift focus toward defining **clear, useful, and verifiable requirements**.
+
+## The Requirements Engineering Process
+
+```text
+Problem -> Stakeholders -> Elicitation -> Analysis -> Requirements
