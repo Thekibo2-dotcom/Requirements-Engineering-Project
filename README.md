@@ -1,7 +1,7 @@
 # requirements-engineering-project
 Individual Requirements Engineering project work
 ## Student
-Name: Gonçalo Ferreira
+Name: Luke O'Sullivan
 ## Module
 Requirements Engineering
 ## Project Status
