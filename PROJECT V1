@@ -1,97 +1,125 @@
-project Scenario - 2. College student support appointment system
+Project Scenario - 2. College Student Support Appointment System
 
-1. Problem, stakeholders and goals
-Problem - after extensive research, through speaking to staff, students and investigating the current appointment system, I 
-have come to the conclusion that many students avoid making appointments due to not understanding how to use the current 
-system in place, the support staff are sending out monthly surveys realising many students are looking for help but they are
-not getting many appointments, they asked me to design a simple, straightforward booking system to make students more likely 
-to book appointments in future.
+1. Problem, Stakeholders, and Goals
 
-Current situation - There are many students struggling and requiring help, without knowing they can make appointments or 
-not understanding how to
+Problem: After extensive research, through speaking to staff, students, and investigating the current appointment system, I have come to the conclusion that many students avoid making appointments due to not understanding how to use the current system in place. The support staff are sending out monthly surveys realizing many students are looking for help but they are not getting many appointments. They asked me to design a simple, straightforward booking system to make students more likely to book appointments in future.
 
-stakeholders - students, the college, the lecturers, it staff, support staff.
+Current Situation: There are many students struggling and requiring help, without knowing they can make appointments or not understanding how to.
 
-Needs - simple, straighforward booking system for students to use that has timeslots, choice of which staff member they 
-book with and for what reason, a notification and reminders for the support staff and students alike, staff having the ability 
-to block off certain times or days for holidays, sick days, or meetings
+Stakeholders:
 
-goals - deliver
+Students
 
-assumptions - this system must be integrated with the colleges ecosystem
-unknowns - amount of traffic expected per day on this system
+The college
 
---------------------------------------------------------------------
-2. requirements - 
+Lecturers
 
---------------------------------------------------------------------
-3. requirements models - 
-use case diagram - 
-use case narrative - 
-Activity diagram - 
-class diagram/conceptual data model - 
-dfd - 
+IT staff
 
---------------------------------------------------------------------
-4. Prototype - 
---------------------------------------------------------------------
-5. quality requirements - 
-non-functional requirements - 
-security - 
-privacy - 
-accessibility - 
-usability - 
-performance - 
-reliability - 
+Support staff
 
---------------------------------------------------------------------
+Needs:
 
-6. Prioritisation and change - 
+A simple, straightforward booking system for students to use that has timeslots
 
+Choice of which staff member they book with and for what reason
 
---------------------------------------------------------------------
-7. Agile requirements - 
+Notifications and reminders for the support staff and students alike
 
+Staff having the ability to block off certain times or days for holidays, sick days, or meetings
 
---------------------------------------------------------------------
-8. Traceability and validation - 
+Goals: Deliver
 
+Assumptions: This system must be integrated with the college's ecosystem.
 
---------------------------------------------------------------------
+Unknowns: Amount of traffic expected per day on this system.
+
+2. Requirements
+
+3. Requirements Models
+
+Use Case Diagram:
+
+Use Case Narrative:
+
+Activity Diagram:
+
+Class Diagram / Conceptual Data Model:
+
+DFD:
+
+4. Prototype
+
+5. Quality Requirements
+
+Non-Functional Requirements:
+
+Security:
+
+Privacy:
+
+Accessibility:
+
+Usability:
+
+Performance:
+
+Reliability:
+
+6. Prioritisation and Change
+
+7. Agile Requirements
+
+8. Traceability and Validation
+
 9. GitHub Development
 
-
---------------------------------------------------------------------
 10. AI Use Record
 
---------------------------------------------------------------------
-NB - MY SCENARIO
-Scenario B — College Student Support Appointment System 
-A college provides a range of student support services, such as academic support, 
-careers advice, learning support and other student services. 
-At present, students may contact services by email or phone, while staff use calendars, 
-spreadsheets and other informal methods to manage appointments. 
-The college wants to investigate a software system that could make appointment 
-management easier. 
-Current problems include: 
-• students may be unsure which service they should contact  
-• students may not know when appointments are available  
-• staff spend time managing appointments manually  
-• cancellations and changes can be difficult to manage  
-• different staff may have different appointment types and availability  
-• information about students and appointments must be appropriately protected  
-• accessibility and ease of use need to be considered  
-As the Requirements Engineer, investigate questions such as: 
-• Who can make an appointment?  
-• Who can manage appointment availability?  
-• What types of appointments are available?  
-• What information is required when making an appointment?  
-• Can students cancel or change appointments?  
-• What happens when a student does not attend?  
-• What reminders should be provided?  
-• Who should be able to see appointment information?  
-• What privacy and security requirements apply?  
-• What accessibility requirements should be considered?  
-Important: These questions are prompts to help you begin your investigation. They are 
-not a list of requirements to copy into your project. As your project develops, identify 
-additional stakeholders, questions, needs, constraints and exceptions. 
+Appendix: NB - My Scenario
+
+Scenario B — College Student Support Appointment System
+
+A college provides a range of student support services, such as academic support, careers advice, learning support, and other student services. At present, students may contact services by email or phone, while staff use calendars, spreadsheets, and other informal methods to manage appointments.
+
+The college wants to investigate a software system that could make appointment management easier.
+
+Current problems include:
+
+Students may be unsure which service they should contact.
+
+Students may not know when appointments are available.
+
+Staff spend time managing appointments manually.
+
+Cancellations and changes can be difficult to manage.
+
+Different staff may have different appointment types and availability.
+
+Information about students and appointments must be appropriately protected.
+
+Accessibility and ease of use need to be considered.
+
+As the Requirements Engineer, investigate questions such as:
+
+Who can make an appointment?
+
+Who can manage appointment availability?
+
+What types of appointments are available?
+
+What information is required when making an appointment?
+
+Can students cancel or change appointments?
+
+What happens when a student does not attend?
+
+What reminders should be provided?
+
+Who should be able to see appointment information?
+
+What privacy and security requirements apply?
+
+What accessibility requirements should be considered?
+
+Important: These questions are prompts to help you begin your investigation. They are not a list of requirements to copy into your project. As your project develops, identify additional stakeholders, questions, needs, constraints, and exceptions.
