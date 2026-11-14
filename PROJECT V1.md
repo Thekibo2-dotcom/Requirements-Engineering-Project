@@ -20,12 +20,12 @@ Unknowns: The amount of traffic expected per day on this system.
 
 2. Requirements (25 requirements needed)
 
-1. All enrolled students should be able to book equipment or appointments.
-2. Staff can control their availability through an ongoing weekly timetable that can  subject to change
-3. Appointments must be booked the day prior at a minimum
-4. if a student does not show to an appointment, they cannot choose the time of another, they will be allotted a time that cannot be moved.
-5. The only people aware of an appointment booking are the student, the staff member booked and the year head, not every teacher should have access to these records.
-6. 
+1. This system will allow enrolled students to book appointments after authentication.
+2. The system shall allow authorised staff to update their weekly availability.
+3. The system shall prevent students from booking an appointment with less then 24 hours ahead.
+4. The system shall restrict students with several recorded instances of non-attendance, requiring staff to manually assign an appointment time.
+5. The system shall restrict appointment availability to the assigned staff, the student and other authorised staff, e.g. the year head.
+6. On instance of a student cancellation
 
 
 -------------------------------------------------------------------------------------------------------------------
