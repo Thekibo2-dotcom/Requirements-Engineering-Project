@@ -40,7 +40,7 @@ FRO9: The system will allow students to reschedule or cancel appointments up unt
 
 FRO10: On event on cancellation, the booked appointment time will be available to be booked by another student.
 
-FRO11: The system shall allow staff members to cancel or reschedule bookings based on illness, holidays or work-related commitments.
+FRO11: The system shall allow staff members to cancel or reschedule bookings based on illness or work-related commitments.
 
 FRO12: The system will send an email to both students and lecturers 24 hours prior to the appointment.
 
