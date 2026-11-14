@@ -16,9 +16,19 @@ Assumptions: This system must be integrated with the college's ecosystem.
 
 Unknowns: The amount of traffic expected per day on this system.
 
-2. Requirements
+-------------------------------------------------------------------------------------------------------------------
 
-(To be completed)
+2. Requirements (25 requirements needed)
+
+1. All enrolled students should be able to book equipment or appointments.
+2. Staff can control their availability through an ongoing weekly timetable that can  subject to change
+3. Appointments must be booked the day prior at a minimum
+4. if a student does not show to an appointment, they cannot choose the time of another, they will be allotted a time that cannot be moved.
+5. The only people aware of an appointment booking are the student, the staff member booked and the year head, not every teacher should have access to these records.
+6. 
+
+
+-------------------------------------------------------------------------------------------------------------------
 
 3. Requirements Models
 
