@@ -20,12 +20,31 @@ Unknowns: The amount of traffic expected per day on this system.
 
 2. Requirements (25 requirements needed)
 
-1. This system will allow enrolled students to book appointments after authentication.
-2. The system shall allow authorised staff to update their weekly availability.
-3. The system shall prevent students from booking an appointment with less then 24 hours ahead.
-4. The system shall restrict students with several recorded instances of non-attendance, requiring staff to manually assign an appointment time.
-5. The system shall restrict appointment availability to the assigned staff, the student and other authorised staff, e.g. the year head.
-6. On instance of a student cancellation
+FRO1: This system will allow enrolled students to book appointments after authentication.
+
+FRO2: The system shall allow authorised staff to update their weekly availability.
+
+FRO3: The system shall prevent students from booking an appointment with less then 24 hours ahead.
+
+FRO4: The system shall restrict students with several recorded instances of non-attendance, requiring staff to manually assign an appointment time.
+
+FRO5: The system shall restrict appointment availability to the assigned staff, the student and other authorised staff, e.g. the year head.
+
+FRO6: System shall let students select from particular categories depending on the help they need e.g. academic, learning support, careers.
+
+FRO7: The system will allow students to request a specific staff member if they are available
+
+FRO8: The system will email both the student and staff member on event of a successful booking.
+
+FRO9:
+
+FRO10: On event on cancellation, the booked appointment time will be available to be booked by another student.
+
+FRO11: The system shall allow staff members to cancel or reschedule bookings based on illness, holidays or work-related commitments.
+
+FRO12: The system will send an email to both students and lecturers 24 hours prior to the appointment.
+
+FRO13:
 
 
 -------------------------------------------------------------------------------------------------------------------
