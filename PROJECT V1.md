@@ -36,7 +36,7 @@ FRO7: The system will allow students to request a specific staff member if they 
 
 FRO8: The system will email both the student and staff member on event of a successful booking.
 
-FRO9:
+FRO9: The system will allow students to reschedule or cancel appointments up until a certain timeframe before the appointment (decided by the college)
 
 FRO10: On event on cancellation, the booked appointment time will be available to be booked by another student.
 
