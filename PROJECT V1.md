@@ -44,7 +44,15 @@ FRO11: The system shall allow staff members to cancel or reschedule bookings bas
 
 FRO12: The system will send an email to both students and lecturers 24 hours prior to the appointment.
 
-FRO13:
+FRO13: The system will enable the booked staff member to record if a student attends or doesn't attend
+
+FRO14: The system will allow staff and IT personnel to block off specific times, days or weeks subject to college closure, training days or lecturer-protests.
+
+FRO15: The system will require all users to authenticate based on the colleges sign-in system.
+
+FRO16: The system should allow students to view previous and upcoming appointments.
+
+FRO17: 
 
 
 -------------------------------------------------------------------------------------------------------------------
