@@ -52,7 +52,15 @@ FRO15: The system will require all users to authenticate based on the colleges s
 
 FRO16: The system should allow students to view previous and upcoming appointments.
 
-FRO17: 
+FRO17: The system will allow support staff to put in confidential meeting notes into the system which are not available for the student to view
+
+FRO18: The system will let admins to manage all accounts and permissions.
+
+FRO19: 
+
+NFR01: The system will conform to industry accessibility standards.
+
+FRR02: 
 
 
 -------------------------------------------------------------------------------------------------------------------
