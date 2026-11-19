@@ -1,7 +1,12 @@
 Requirements Models
-Use Case Diagram: Uploading image.png…
+Use Case Diagram: DONE
+Activity Diagram: UNDONE
+Conceptual UML Class Diagram(Domain Model): UNDONE
 
-Use Case Narrative: Use Case Name: Book Support Appointment Main actor: Student Other Actors: Support Staff
+Use Case Narrative: 
+Use Case Name: Book Support Appointment 
+Main actor: Student 
+Other Actors: Support Staff
 
 A student chooses a service from the system and views available timeslot (24 hours in advance), they explain why they want the appointment and book a timeslot with their selected staff member.
 
