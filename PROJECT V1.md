@@ -60,7 +60,13 @@ FRO19:
 
 NFR01: The system will conform to industry accessibility standards.
 
-FRR02: 
+NFR02: System will have load times under 2 seconds.
+
+NFR03: The system shall follow standard industry architecture and use a suitable framework.
+
+NFR04: Maintenance for the system may only occur outside of academic hours e.g. 00:00 - 05:00.
+
+NFR05: A first-time student should be able to find and book an available appointment without guidance.
 
 
 -------------------------------------------------------------------------------------------------------------------
@@ -68,8 +74,18 @@ FRR02:
 3. Requirements Models
 
 Use Case Diagram:
+![Uploading image.png…]()
+
 
 Use Case Narrative:
+Use Case Name: Book Support Appointment
+Main actor: Student
+Other Actors: Support Staff
+
+A student chooses a service from the system and views available timeslot (24 hours in advance), they explain why they want the appointment and book a timeslot with their selected staff member.
+
+The student must be enrolled at the college and authenticated and have shown to their most recent scheduled appointment.
+
 
 Activity Diagram:
 
