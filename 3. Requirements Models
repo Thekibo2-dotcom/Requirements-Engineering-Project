@@ -1,0 +1,16 @@
+Requirements Models
+Use Case Diagram: Uploading image.png…
+
+Use Case Narrative: Use Case Name: Book Support Appointment Main actor: Student Other Actors: Support Staff
+
+A student chooses a service from the system and views available timeslot (24 hours in advance), they explain why they want the appointment and book a timeslot with their selected staff member.
+
+To make the appointment: The student must be enrolled at the college and authenticated and have shown to their most recent scheduled appointment.
+
+What happens after making the appointment: The confirmed appointment is only visible to the support staff and student. The timeslot of the appointment is made unavailable for all other students to prevent double-booking. Appointment confirmation is sent to the student and support staff.
+
+Activity Diagram:
+
+Class Diagram / Conceptual Data Model:
+
+DFD:
