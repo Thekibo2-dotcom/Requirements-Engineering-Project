@@ -9,10 +9,47 @@ Stakeholders: Students, the college, the lecturers, IT staff, support staff.
 
 Needs: A simple, straightforward booking system for students to use that has timeslots, a choice of which staff member they book with and for what reason, notifications and reminders for the support staff and students alike, and staff having the ability to block off certain times or days for holidays, sick days, or meetings.
 
-Goals: Deliver the system.
+Goals: Removing the necessity of manual scheduling, increasing the likelihood of students availing of the supports available to them. 
+
+what is in and out of scope?
+In scope - booking and managing support appointments and availability
+
+out of scope - individual case management per student, non-support appointments.
 
 Assumptions: This system must be integrated with the college's ecosystem.
 
 Unknowns: The amount of traffic expected per day on this system.
 
+--------------------
+Turning it into words instead of bullet points
 
+After extensive research and all information given to me. I have come to the understanding that many of the current students within the college are avoidant of booking appoitnments.
+
+Problem:
+While the support staff are necessary and required, they are not recieving many appointments, because of this they have came to me for assistance.
+They requested i make a basic booking system to make it easier on students to book appointments.
+
+Current situation - 
+There are many students within the college that require extra assistance yet are not availing of the assistance available due to not making appointments.
+
+Stakeholders - 
+Students, the college, the support staff. 
+
+Needs - 
+A basic, easy to use booking system for students.
+Candidate needs - 
+Students being able to choose timeslots & a specific staff member as well as their reason for booking
+Support staff having the ability to block off certain timeslots for meetings, sick days or holidays.
+Getting a notification after a successful booking
+Getting a reminder for staff and student 24 hours pre-appointment
+
+Goals - 
+Removing the need for manual scheduling and increasing the chances of students availing of the supports available.
+Scope: Booking support appointments. (CANDIDATE) Handling availability
+Out of Scope: Handling individual appointments per student. Booking non-support appointments.
+
+Assumptions - 
+(CANDIDATE) The system must inegrate with the colleges ecosystem.
+
+Unknowns - 
+The amount of usage / internet traffic per day on the system. College policy, how cancellation and no-shows work.
