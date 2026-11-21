@@ -1,39 +1,39 @@
 Requirements (25 requirements needed)
-FRO1: [BRIEF] This system will allow enrolled students to book support appointments.
+FRO1: [BRIEF] This system will allow students to book support appointments.
 
-FRO2: [BRIEF] The system shall allow students to select a support cateogry of their choice.
+FRO2: [BRIEF] The system shall allow students to select the support category they need.
 
-FRO3: [BRIEF] The system shall allow students to reschedule or cancel appointments.
+FRO3: [CANDIDATE] The system shall allow students to reschedule or cancel appointments.
 
-FRO4: |The System shall allow stu
+FRO4: 
 
-FRO5: The system shall restrict appointment availability to the assigned staff, the student and other authorised staff, e.g. the year head.
+FRO5: The system shall restrict appointment availability to the assigned support staff and the student.
 
-FRO6: System shall let students select from particular categories depending on the help they need e.g. academic, learning support, careers.
+FRO6: 
 
-FRO7: The system will allow students to request a specific staff member if they are available
+FRO7: [BRIEF] The system will allow students to request a specific staff member if they are available
 
-FRO8: The system will email both the student and staff member on event of a successful booking.
+FRO8: [BRIEF] The system will notify both the student and staff member on event of a successful booking.
 
-FRO9: The system will allow students to reschedule or cancel appointments up until a certain timeframe before the appointment (decided by the college)
+FRO9: [CANDIDATE] The system will allow students to reschedule or cancel appointments up until a certain timeframe before the appointment (decided by the college)
 
-FRO10: On event on cancellation, the booked appointment time will be available to be booked by another student.
+FRO10: 
 
-FRO11: The system shall allow staff members to cancel or reschedule bookings based on illness or work-related commitments.
+FRO11: [BRIEF] The system shall manage staff availability.
+ 
+FRO12: [BRIEF] The system will send a reminder to both students and support staff prior to the appointment.
 
-FRO12: The system will send an email to both students and lecturers 24 hours prior to the appointment.
+FRO13: [CANDIDATE] The system will enable the booked staff member to record if a student attends or doesn't attend
 
-FRO13: The system will enable the booked staff member to record if a student attends or doesn't attend
+FRO14: [BRIEF] The system will allow support staff to block off specific times, days or weeks.
 
-FRO14: The system will allow staff and IT personnel to block off specific times, days or weeks subject to college closure, training days or lecturer-protests.
+FRO15: [CANDIDATE] The system will require all users to authenticate based on the colleges sign-in system.
 
-FRO15: The system will require all users to authenticate based on the colleges sign-in system.
+FRO16: [CANDIDATE] The system should allow students to view previous and upcoming appointments.
 
-FRO16: The system should allow students to view previous and upcoming appointments.
+FRO17: 
 
-FRO17: The system will allow support staff to put in confidential meeting notes into the system which are not available for the student to view
-
-FRO18: The system will let admins to manage all accounts and permissions.
+FRO18: [CANDIDATE] The system will let admins to manage all accounts and permissions.
 
 FRO19:
 
