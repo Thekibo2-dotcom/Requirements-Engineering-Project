@@ -43,6 +43,10 @@ NFR02: System will have load times under 2 seconds.
 
 NFR03: The system shall follow standard industry architecture and use a suitable framework.
 
-NFR04: Maintenance for the system may only occur outside of academic hours e.g. 00:00 - 05:00.
+NFR04: [CANDIDATE?] Maintenance for the system may only occur outside of academic hours e.g. 00:00 - 05:00.
 
 NFR05: A first-time student should be able to find and book an available appointment without guidance.
+
+NFR06: [CANDIDATE] The system will follow rigid design patterns to guarantee easy usability for students
+
+NFR07: [CANDIDATE] The system should have accurate appointment information.
