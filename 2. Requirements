@@ -9,7 +9,7 @@ FRO4:
 
 FRO5: [CANDIDATE?] The system shall restrict appointment availability to students.
 
-FRO6: [CANDIDATE] The system shall only allow the student and support staff to view the booked appointment.
+FRO6: [CANDIDATE?] The system shall only allow the student and support staff to view the booked appointment.
 
 FRO7: [BRIEF] The system will allow students to request a specific staff member if they are available
 
@@ -17,7 +17,7 @@ FRO8: [BRIEF] The system will notify both the student and staff member on event 
 
 FRO9: [CANDIDATE] The system will allow students to reschedule or cancel appointments up until a certain timeframe before the appointment (decided by the college)
 
-FRO10: 
+FRO10: [CANDIDATE?] The system will remove already-booked appointment slots.
 
 FRO11: [BRIEF] The system shall manage staff availability.
  
@@ -31,11 +31,11 @@ FRO15: [CANDIDATE] The system will require all users to authenticate based on th
 
 FRO16: [CANDIDATE] The system should allow students to view previous and upcoming appointments.
 
-FRO17: 
+FRO17: [CANDIDATE?] The system shall allow students to input a reason for booking the appointment.
 
 FRO18: [CANDIDATE] The system will let admins to manage all accounts and permissions.
 
-FRO19:
+FRO19: [CANDIDATE] The system will notify the student if their appointment is cancelled.
 
 NFR01: The system will conform to industry accessibility standards.
 
