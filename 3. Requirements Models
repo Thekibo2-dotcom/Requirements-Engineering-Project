@@ -8,7 +8,7 @@ Use Case Name: Book Support Appointment
 Main actor: Student 
 Other Actors: Support Staff
 
-A student chooses a service from the system and views available timeslot (24 hours in advance), they explain why they want the appointment and book a timeslot with their selected staff member.
+A student chooses a service from the system and views available timeslot, they then select a support category from the given list and book a timeslot with their selected support staff.
 
 To make the appointment: The student must be enrolled at the college and authenticated and have shown to their most recent scheduled appointment.
 
