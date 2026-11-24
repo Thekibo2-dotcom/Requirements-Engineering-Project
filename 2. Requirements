@@ -5,7 +5,7 @@ FRO2: [BRIEF] The system shall allow students to select the support category the
 
 FRO3: [CANDIDATE] The system shall allow students to reschedule or cancel appointments.
 
-FRO4: 
+FRO4: [CANDIDATE] The system shall notify a student if the appointment booking is unsuccessful.
 
 FRO5: [CANDIDATE?] The system shall restrict appointment availability to students.
 
