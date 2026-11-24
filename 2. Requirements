@@ -7,9 +7,9 @@ FRO3: [CANDIDATE] The system shall allow students to reschedule or cancel appoin
 
 FRO4: 
 
-FRO5: The system shall restrict appointment availability to the assigned support staff and the student.
+FRO5: [CANDIDATE?] The system shall restrict appointment availability to students.
 
-FRO6: 
+FRO6: [CANDIDATE] The system shall only allow the student and support staff to view the booked appointment.
 
 FRO7: [BRIEF] The system will allow students to request a specific staff member if they are available
 
