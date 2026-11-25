@@ -50,3 +50,25 @@ NFR05: A first-time student should be able to find and book an available appoint
 NFR06: [CANDIDATE] The system will follow rigid design patterns to guarantee easy usability for students
 
 NFR07: [CANDIDATE] The system should have accurate appointment information.
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+
+Requirements notes -
+
+Ambiguity and missing information
+
+While making my list of requirements, 
+I found I lacked information on whether the booking system should integrate with the colleges own ecosystem - FR15
+
+I also found that I could not confirm all of the stakeholders, whether year heads or IT staff should have access to viewing booked appointments. FR06, FR18
+
+I also do not know whether there should be a set amount of time before stduents or support staff can make a cancellation e.g. 24 hours before. FR03, FR19
+
+
+
+
+
+conflicts, assumptions and improvements - 
