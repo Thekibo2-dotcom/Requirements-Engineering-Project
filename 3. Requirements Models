@@ -26,3 +26,8 @@ Main successful flow	[???]
 Alternative / exception flows	[???]
 Outcome / postconditions	[Successful booking of appointment]
 Related requirements	[FR…]
+
+
+
+/w/s///
+1 student can book many support appointments, one appointment per student
