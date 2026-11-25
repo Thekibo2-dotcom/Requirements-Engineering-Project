@@ -18,3 +18,11 @@ What happens after making the appointment: The confirmed appointment is only vis
 Class Diagram / Conceptual Data Model:
 
 DFD:
+
+Use case / ID	[UC01 — Book Support Appointment ]
+Primary actor / goal	[Student / Book support appointment]
+Preconditions / trigger	[Making support system]
+Main successful flow	[???]
+Alternative / exception flows	[???]
+Outcome / postconditions	[Successful booking of appointment]
+Related requirements	[FR…]
