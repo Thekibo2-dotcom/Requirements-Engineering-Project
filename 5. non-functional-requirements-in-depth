@@ -1,1 +1,16 @@
 
+NFR01 
+Accessibility [CANDIDATE] - The UI will use industry standard accessibility standards. 
+relevance - 
+
+NFR02
+Performance [CANDIDATE] - under the colleges normal daily use, the loadtime shall be less then 2 seconds 
+relevance - 
+
+NFR04
+Reliability/Availibility [CANDIDATE] - System maintenance should only be scheduled outside of academic hours
+relevance - 
+
+NFR05
+Usability [CANDIDATE] - A first time student should be able to locate the service they are looking for and complete a booking within 3 minutes.
+relevance - 
