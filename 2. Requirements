@@ -15,7 +15,7 @@ FRO7: [BRIEF] The system will allow students to request a specific staff member 
 
 FRO8: [BRIEF] The system will notify both the student and staff member on event of a successful booking.
 
-FRO9: [CANDIDATE] 
+FRO9: [CANDIDATE] The system shall notify both student and staff member upon a successfull booking
 
 FRO10: [CANDIDATE?] The system will remove already-booked appointment slots.
 
