@@ -1,16 +1,16 @@
  
 NFR01 
 Accessibility [CANDIDATE] - The UI will use industry standard WCAG 2.1 accessibility standards. 
-relevance - 
+relevance - Accessibility is important so all students with different needs can use the system
 
 NFR02
 Performance [CANDIDATE] - under the colleges normal daily use, the loadtime shall be less then 2 seconds 
-relevance - 
+relevance - slow loading times can discourage a student from booking an appoitnment they need.
 
 NFR04
 Reliability/Availibility [CANDIDATE] - System maintenance should only be scheduled outside of academic hours e.g. 00:00 - 05:00
-relevance - 
+relevance - Students and staff need access to the system during academic hours
 
 NFR05
 Usability [CANDIDATE] - A first time student should be able to locate the service they are looking for and complete a booking within 3 minutes.
-relevance - 
+relevance - students are currently not availing of college supports, if the system is complicated, it may disuade them from making a booking.
