@@ -1,10 +1,18 @@
 Prioritisation -
-Req ID
+Req ID - 
 
+FR01, FR02, FR06, FR07, FR11 - must - entails booking, category selection, requesting a specific support staff, availability, cancellation - cannot make the system without these
 
+FR05, FR10, FR14, FR15, NFR01, NFR05 - should - important for accuracy, privacy, accessibility and usability. While not absolutely essential, this is very important
+
+FR04, FR13, FR16, FR17, FR18, FR19 - optional extras like recording attendance, discouraging 'no-shows' 
+
+-----------------------------------------------------
 
 Lecturer change request
 (put in information about things that were changed during my comits, find one large and atleast 3 minor)
+
+---------------------------------
 
 Agile Requirements - 
 (3 - 5 requirements from my catalogue reqwritten as user stories with testable criteria e.g. given/when/tehn)
