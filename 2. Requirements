@@ -37,7 +37,7 @@ FRO18: [CANDIDATE] The system will let admins to manage all accounts and permiss
 
 FRO19: [CANDIDATE] The system will notify the student if their appointment is cancelled.
 
-NFR01: The system will conform to industry accessibility standards.
+NFR01: The system will conform to industry WCAG 2.1 accessibility standards.
 
 NFR02: System will have load times under 2 seconds.
 
@@ -45,7 +45,7 @@ NFR03: The system shall follow standard industry architecture and use a suitable
 
 NFR04: [CANDIDATE?] Maintenance for the system may only occur outside of academic hours e.g. 00:00 - 05:00.
 
-NFR05: A first-time student should be able to find and book an available appointment without guidance.
+NFR05: [CANDIDATE] A first-time student should be able to find and book an available appointment without guidance.
 
 NFR06: [CANDIDATE] The system will follow rigid design patterns to guarantee easy usability for students
 
